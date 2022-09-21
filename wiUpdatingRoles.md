@@ -1,4 +1,4 @@
-# UPDATING PUPPET ROLES/TAGS
+# Updating Puppet Roles
 
 # Table of Contents
   
@@ -13,9 +13,9 @@
 
 # Changelog
   
-| Version | Date       | Description              | Author       |
-| ------- | ---------- | ------------------------ | --------------- |
-|Version 0.1|21|09|2022|Updating Puppet Roles    | Vadlamudi Manjusha|
+| Version | Date       | Description      | Author       |
+| ------- | ---------- | ---------------- | -------------|
+| 0.1     | 21/09/2022 | Updating Puppet Role   | Vadlamudi Manjusha |
 
 # Introduction
 
