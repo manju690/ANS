@@ -15,7 +15,7 @@
   
 | Version | Date       | Description      | Author       |
 | ------- | ---------- | ---------------- | -------------|
-| 0.1     | 21/09/2022 | Updating Puppet Role   | Vadlamudi Manjusha |
+| 0.1     | 21/09/2022 | Updating Puppet Roles   | Vadlamudi Manjusha |
 
 # Introduction
 
