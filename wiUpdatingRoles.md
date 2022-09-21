@@ -29,7 +29,7 @@ The scope of this document covers the following:
 
      Adding Puppet Role/Tag in ANS-MAR, ANS-CLY Environment
 
-# Adding Roles
+# Steps Of Adding Roles
 
       If we get any requests to add or update puppet role , There are two places where we have to make changes
 
@@ -44,6 +44,7 @@ The scope of this document covers the following:
 	      
 ## Updating Roles Procedure In ANS-MAR Under VRA Environment
 
+## Step 1
      -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
  ![Figure 1](Picture1.png)
