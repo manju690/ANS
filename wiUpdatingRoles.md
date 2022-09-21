@@ -6,6 +6,8 @@
 - [Introduction](#Introduction)
 - [Purpose](#Purpose)
 - [Scope](#Scope)
+- [AddingRoles](#AddingRoles)
+- [Updating Roles Procedure In ANS-MAR Under VRA Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRA-Environment)
 
 
 # Changelog
@@ -26,7 +28,7 @@ The scope of this document covers the following:
 
      Adding Puppet Role/Tag in ANS-MAR, ANS-CLY Environment
 
-# Bringup proces
+# Adding Roles
 
 ## Prerequisites
 
