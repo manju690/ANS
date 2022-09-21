@@ -19,7 +19,16 @@ The purpose of this document is to create step by step instructions for adding a
 
 The scope of this document covers the following:
 
-          Adding Puppet Role/Tag
+     Adding Puppet Role/Tag in ANS-MAR, ANS-CLY Environment
+
+# Bringup proces
+
+## Prerequisites
+
+	If we get any requests to add or update puppet role , There are two places where we have to make changes
+
+      1.	The first one is in Blueprint.
+      2.	The second one is in vro workflow which is present under Resources.
 
 
 
