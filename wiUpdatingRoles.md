@@ -64,6 +64,8 @@ The scope of this document covers the following:
    - After importing the file click on Save.
 
 
+## Same Procedure Will Be Done For ANS-CLY Environment
+
 
 
 
