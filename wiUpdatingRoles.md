@@ -19,7 +19,7 @@ The purpose of this document is to create step by step instructions for adding a
 
 The scope of this document covers the following:
 
-Adding Puppet Role/Tag
+   Adding Puppet Role/Tag
 
 
 
