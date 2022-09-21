@@ -31,13 +31,17 @@ The scope of this document covers the following:
 
 # Adding Roles
 
-## Prerequisites
-
-	If we get any requests to add or update puppet role , There are two places where we have to make changes
+      If we get any requests to add or update puppet role , There are two places where we have to make changes
 
               1. The first one is in Blueprint.
               2. The second one is in vro workflow which is present under Resources.
-      
+	      
+## Prerequisites
+
+     -  Access to the both ANS-MAR , CLY in VRA Environment
+     -  Access to the both ANS-MAR , CLY in VRO Environment
+	      
+	      
 ## Updating Roles Procedure In ANS-MAR Under VRA Environment
 
      -  For updating roles in Blueprint , Log on to the VRA Service Broker
