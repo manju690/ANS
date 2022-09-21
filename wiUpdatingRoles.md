@@ -32,13 +32,13 @@ The scope of this document covers the following:
       
 ## Updating Roles Procedure In ANS-MAR Under VRA Environment
 
-   -  For updating roles in Blueprint , Log on to the VRA Service Broker
+     -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
  ![Figure 1](Picture1.png)
   
-   -  For mapping the roles we can see under the design part in content&policies.
-   -  Click on content&policies under that content and then to respected blueprint.
-   -  Click on to the customize form.
+     -  For mapping the roles we can see under the design part in content&policies.
+     -  Click on content&policies under that content and then to respected blueprint.
+     -  Click on to the customize form.
    
  ![Figure 1](Picture2.png)
     
