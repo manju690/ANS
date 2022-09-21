@@ -27,15 +27,17 @@ The scope of this document covers the following:
 
 	If we get any requests to add or update puppet role , There are two places where we have to make changes
 
-      1.	The first one is in Blueprint.
-      2.	The second one is in vro workflow which is present under Resources.
+              1. The first one is in Blueprint.
+              2. The second one is in vro workflow which is present under Resources.
       
 ## Updating Roles Procedure In ANS-MAR Under VRA Environment
 
    1. For updating roles in Blueprint , Log on to VRA Service Broker.
   
    2. For mapping the roles we can see under the design part in content&policies.
+    
     Click on content&policies under that content and then to respected blueprint.
+    
     Click on to the customize form.
     
     In customize form , here we can see the role tab.
