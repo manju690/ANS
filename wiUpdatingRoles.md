@@ -94,9 +94,10 @@ The scope of this document covers the following:
 
 
 
-## The Above Procedure In ANS-MAR Is Applied For DEV 
+## The above procedure in ANS-MAR is applied for dev
 
-## Same Procedure Will Be Done For Both PRD And DEV In ANS-CLY Environment
+
+## Same procedure will be done for both PRD And DEV in ANS-CLY Environment
 
 
 
