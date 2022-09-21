@@ -42,30 +42,44 @@ The scope of this document covers the following:
    
  ![Figure 1](Picture2.png)
     
-   -  In customize form , here we can see the role tab.
-   -  When we click on that role tab , on the right hand side we can see the constant which is present under values.
-   -  Copy the constant value and paste it in the notepad.
+     -  In customize form , here we can see the role tab.
+     -  When we click on that role tab , on the right hand side we can see the constant which is present under values.
+     -  Copy the constant value and paste it in the notepad.
+   
+ ![Figure 1](Picture3.png)
     
-   -  Whenever we have to update roles, It should be always in Lexographical order.
-   -  Whatever roles we have to update it in the form of key-value pair.
-   -  When we have to add new role , Just click on comma( , ) and provide the value of that particular role and then key.
+     -  Whenever we have to update roles, It should be always in Lexographical order.
+     -  Whatever roles we have to update it in the form of key-value pair.
+     -  When we have to add new role , Just click on comma( , ) and provide the value of that particular role and then key.
+     
+ ![Figure 1](Picture4.png)    
     
-   -  When roles have been updated successfully, We can verify it under catalog.
+     -  When roles have been updated successfully, We can verify it under catalog.
+     
+ ![Figure 1](Picture5.png)    
     
-   - In request form , we can see the key-value pairs of that role.
-   - Click on Submit.
-   - Those roles should be updated by provisioning.
+     - In request form , we can see the key-value pairs of that role.
+     - Click on Submit.
+     - Those roles should be updated by provisioning.
+     
+ ![Figure 1](Picture6.png)
     
 
 ## Updating Roles Procedure In ANS-MAR Under VRO Environment
     
-   - To update those roles actually as a part of day-2-action , We have to add that roles under VRO.
+     - To update those roles actually as a part of day-2-action , We have to add that roles under VRO.
+   
+ ![Figure 1](Picture7.png)
     
-   - Click on the Resources which is present under the Assests tab.
+     - Click on the Resources which is present under the Assests tab.
+     
+ ![Figure 1](Picture8.png)
     
-   - Click on  export the file and do the changes and then Import the file.
-   - Keep the file name same , If we change the file name the code will get changed.
-   - After importing the file click on Save.
+     - Click on  export the file and do the changes and then Import the file.
+     - Keep the file name same , If we change the file name the code will get changed.
+     - After importing the file click on Save.
+     
+ ![Figure 1](Picture9.png)
 
 
 ## The Above Procedure In ANS-MAR Is Applied For DEV 
