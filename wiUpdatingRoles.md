@@ -1,6 +1,6 @@
 # UPDATING PUPPET ROLES/TAGS
 
-- Table of Contents
+# Table of Contents
   
 - [Changelog](#Changelog)
 - [Introduction](#Introduction)
