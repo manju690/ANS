@@ -65,6 +65,8 @@ The scope of this document covers the following:
  ![Figure 1](Picture6.png)
     
 
+
+
 ## Updating Roles Procedure In ANS-MAR Under VRO Environment
     
      - To update those roles actually as a part of day-2-action , We have to add that roles under VRO.
@@ -80,6 +82,7 @@ The scope of this document covers the following:
      - After importing the file click on Save.
      
  ![Figure 1](Picture9.png)
+
 
 
 ## The Above Procedure In ANS-MAR Is Applied For DEV 
