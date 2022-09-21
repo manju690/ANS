@@ -94,8 +94,6 @@ The scope of this document covers the following:
 
 
 
-## Scope
-
 
 ## The above procedure in ANS-MAR is applied for dev
 
