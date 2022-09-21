@@ -110,7 +110,7 @@ The scope of this document covers the following:
 
 
     - The above procedure in ANS-MAR is applied for dev
-     - Same procedure will be done for both PRD And DEV in ANS-CLY Environment
+    - Same procedure will be done for both PRD And DEV in ANS-CLY Environment
 
 
 
