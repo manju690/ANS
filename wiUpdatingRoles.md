@@ -39,6 +39,8 @@ The scope of this document covers the following:
    -  For mapping the roles we can see under the design part in content&policies.
    -  Click on content&policies under that content and then to respected blueprint.
    -  Click on to the customize form.
+   
+ ![Figure 1](Picture2.png)
     
    -  In customize form , here we can see the role tab.
    -  When we click on that role tab , on the right hand side we can see the constant which is present under values.
