@@ -8,6 +8,7 @@
 - [Scope](#Scope)
 - [AddingRoles](#AddingRoles)
 - [Updating Roles Procedure In ANS-MAR Under VRA Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRA-Environment)
+- [Updating Roles Procedure In ANS-MAR Under VRO Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRO-Environment)
 
 
 # Changelog
