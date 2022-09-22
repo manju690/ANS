@@ -7,8 +7,8 @@
 - [Purpose](#Purpose)
 - [Scope](#Scope)
 - [AddingRoles](#AddingRoles)
-- [Updating Roles Procedure In ANS-MAR Under VRA Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRA-Environment)
-- [Updating Roles Procedure In ANS-MAR Under VRO Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRO-Environment)
+- [Updating Roles Procedure In VRA Resources](#Updating-Roles-Procedure-In-VRA-Resources)
+- [Updating Roles Procedure In VRO Resources](#Updating-Roles-Procedure-In-VRO-Resources)
 
 
 # Changelog
@@ -43,7 +43,7 @@ The scope of this document covers the following:
 
 ## Stage 1
 	      
-## Updating Roles Procedure In ANS-MAR Under VRA Environment
+## Updating Roles Procedure In VRA Resources
 
 ## Stage 1.1
      -  For updating roles in Blueprint , Log on to the VRA Service Broker
@@ -51,17 +51,16 @@ The scope of this document covers the following:
  ![Figure 1](Picture1.png)
   
 ## Stage 1.2  
-     -  For mapping the roles we can see under the design part in content&policies.
-     -  Click on content&policies under that content and then to respected blueprint.
-     -  Click on to the customize form.
+     -  For mapping the roles select content&policies tab.
+     -  Select content&policies and select content then select the blueprint which we want to edit.
+     -  Click on the option there we can see the customize form.
    
  ![Figure 1](Picture2.png)
  
 ## Stage 1.3
-     -  In customize form , here we can see the role tab.
-     -  When we click on that role tab , on the right hand side we can see the constant which is present under values.
-     -  Copy the constant value and paste it in the notepad.
-   
+     -  In customize form , Here we can see the role properties.
+     -  Under the role properties we can find the values option where we can edit the values.
+     
  ![Figure 1](Picture3.png)
  
 ## Stage 1.4
