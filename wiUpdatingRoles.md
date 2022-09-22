@@ -67,8 +67,8 @@ The scope of this document covers the following:
      -  Whenever we have to update roles, It should be always in Lexographical order.
      -  Whatever roles we have to update it in the form of key-value pair.
      
-     
- ![Figure 1](Picture4.png)  
+## For Example:
+     enreg::service_batch::init:|ENREG SERVICE BATCH
  
 ## Stage 1.5 
      -  After updating roles, We can verify it under catalog.
@@ -102,8 +102,10 @@ The scope of this document covers the following:
 ## Stage 2.3 
      - under resource folder we will find "role.txt".
      - We should export this file and add/edit the tag by following key|value format and then upload the same by cliking on update option as given in screenshot.
-     - Keep the file name same , If we change the file name the code will get changed.
      - After importing the file click on Save.
+     
+## Note :  
+     - Keep the file name same , If we change the file name the code will get changed.
      
  ![Figure 1](Picture9.png)
 
