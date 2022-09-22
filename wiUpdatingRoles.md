@@ -106,10 +106,6 @@ The scope of this document covers the following:
 ## Note :  
      - Keep the file name same , If we change the file name the code will gets changed.
      
- ![Figure 1](Picture9.png)
-
-
-
 
 ## Note :
 
