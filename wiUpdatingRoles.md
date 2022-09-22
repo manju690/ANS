@@ -52,7 +52,7 @@ The scope of this document covers the following:
   
 ## Stage 1.2  
      -  For mapping the roles select content&policies tab.
-     -  Select content&policies and select content then select the blueprint which we want to edit.
+     -  Click on content&policies select content and then select the blueprint which we want to edit.
      -  Click on the option there we can see the customize form.
    
  ![Figure 1](Picture2.png)
@@ -66,19 +66,18 @@ The scope of this document covers the following:
 ## Stage 1.4
      -  Whenever we have to update roles, It should be always in Lexographical order.
      -  Whatever roles we have to update it in the form of key-value pair.
-     -  When we have to add new role , Just click on comma( , ) and provide the value of that particular role and then key.
+     
      
  ![Figure 1](Picture4.png)  
  
 ## Stage 1.5 
-     -  When roles have been updated successfully, We can verify it under catalog.
+     -  After updating roles, We can verify it under catalog.
      
  ![Figure 1](Picture5.png)   
  
 ## Stage 1.6 
-     - In request form , we can see the key-value pairs of that role.
-     - Click on Submit.
-     - Those roles should be updated by provisioning.
+     - In request form , we can see that values are updated.
+     - Those roles can be used for provisioning.
      
  ![Figure 1](Picture6.png)
     
@@ -86,12 +85,14 @@ The scope of this document covers the following:
 
 ## Stage 2
 
-## Updating Roles Procedure In ANS-MAR Under VRO Environment
+## Updating Roles Procedure In VRO Resources
 
 ## Stage 2.1
-    - To update those roles actually as a part of day-2-action , We have to add that roles under VRO.
    
- ![Figure 1](Picture7.png)
+     - The purpose of updating tags in vro that tag should be available under day2 action such as "update puppet tag"
+
+
+![Figure 1](Picture7.png)
   
 ## Stage 2.2  
      - Click on the Resources which is present under the Assests tab.
@@ -99,7 +100,8 @@ The scope of this document covers the following:
  ![Figure 1](Picture8.png)
  
 ## Stage 2.3 
-     - Click on  export the file and do the changes and then Import the file.
+     - under resource folder we will find "role.txt".
+     - We should export this file and add/edit the tag by following key|value format and then upload the same by cliking on update option as given in screenshot.
      - Keep the file name same , If we change the file name the code will get changed.
      - After importing the file click on Save.
      
