@@ -6,7 +6,7 @@
 - [Introduction](#Introduction)
 - [Purpose](#Purpose)
 - [Scope](#Scope)
-- [AddingRoles](#AddingRoles)
+- [Stages For AddingRoles](#Stages-For-Adding-Roles)
 - [Updating Roles Procedure In VRA Resources](#Updating-Roles-Procedure-In-VRA-Resources)
 - [Updating Roles Procedure In VRO Resources](#Updating-Roles-Procedure-In-VRO-Resources)
 
