@@ -72,13 +72,13 @@ The scope of this document covers the following:
 ## Stage 1.5 
      -  After updating roles, We can verify it under catalog.
      
- ![Figure 1](Picture5.png)   
+ ![Figure 1](Picture4.png)   
  
 ## Stage 1.6 
      - In request form , we can see that values are updated.
      - Those roles can be used for provisioning.
      
- ![Figure 1](Picture6.png)
+ ![Figure 1](Picture5.png)
     
 
 
@@ -91,12 +91,12 @@ The scope of this document covers the following:
      - The purpose of updating tags in vro that tag should be available under day2 action such as "update puppet tag"
 
 
-![Figure 1](Picture7.png)
+![Figure 1](Picture6.png)
   
 ## Stage 2.2  
      - Click on the Resources which is present under the Assests tab.
      
- ![Figure 1](Picture8.png)
+![Figure 1](Picture7.png)
  
 ## Stage 2.3 
      - under resource folder we will find "role.txt".
@@ -105,6 +105,9 @@ The scope of this document covers the following:
      
 ## Note :  
      - Keep the file name same , If we change the file name the code will gets changed.
+     
+     
+![Figure 1](Picture8.png)     
      
 
 ## Note :
