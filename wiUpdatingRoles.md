@@ -66,7 +66,6 @@ The scope of this document covers the following:
 ## Stage 1.4
      -  Whenever we have to update roles, It should be always in Lexographical order.
      -  Whatever roles we have to update it in the form of key-value pair.
-     
 ## For Example:
      enreg::service_batch::init:|ENREG SERVICE BATCH
  
