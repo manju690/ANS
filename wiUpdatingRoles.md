@@ -52,30 +52,36 @@ The scope of this document covers the following:
  ![Figure 1](images/Picture1.png)
   
 - Stage 1.2  
-     -  For mapping the roles select content&policies tab.
+    
+    -  For mapping the roles select content&policies tab.
      -  Click on content&policies select content and then select the blueprint which we want to edit.
      -  Click on the option there we can see the customize form.
    
  ![Figure 1](images/Picture2.png)
  
 - Stage 1.3
+     
      -  In customize form , Here we can see the role properties.
      -  Under the role properties we can find the values option where we can edit the values.
      
  ![Figure 1](images/Picture3.png)
  
 - Stage 1.4
+     
      -  Whenever we have to update roles, It should be always in Lexographical order.
      -  Whatever roles we have to update it in the form of key-value pair.
 ## For Example:
+     
      enreg::service_batch::init:|ENREG SERVICE BATCH
  
 - Stage 1.5 
+     
      -  After updating roles, We can verify it under catalog.
      
  ![Figure 1](images/Picture4.png)   
  
 - Stage 1.6 
+     
      - In request form , we can see that values are updated.
      - Those roles can be used for provisioning.
      
