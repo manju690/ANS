@@ -26,23 +26,26 @@
 
 The scope of this document covers the following:
 
-1. Adding Puppet Role/Tag In Both ANS-MAR & ANS-CLY Environment
+1. Adding puppet role/tag in both ANS-MAR & ANS-CLY Environment
 
 ## Stages for adding roles
 
+     If we get any requests to add or update puppet role , There are two places where we have to make changes 
+
+         1. The first one is in Blueprint.
+	 2. The second one is in vro workflow which is present under Resources.
+
+## Prerequisites
+
+Following are the prerequisites to add/update puppet roles in both the Environments
+  
+     Access to the both ANS-MAR & ANS-CLY in VRA Environment
+     Access to the both ANS-MAR & ANS-CLY in VRO Environment
      
-
-        1. The first one is in Blueprint.
-	2. The second one is in vro workflow which is present under Resources.
-
-       
 	      
-
-
-     -
-
 ## Stage 1
-	      
+
+## Updating Roles Procedure In VRA Resources
 
 
 - Stage 1.1
@@ -91,7 +94,7 @@ The scope of this document covers the following:
 
 ## Stage 2
 
-
+## Updating Roles Procedure In VRO Resources
 
 - Stage 2.1
    
