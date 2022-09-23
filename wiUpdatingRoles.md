@@ -48,7 +48,7 @@ The scope of this document covers the following:
 ## Stage 1.1
      -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
- ![Figure 1](Picture1.png)
+ ![Figure 1](images/Picture1.png)
   
 ## Stage 1.2  
      -  For mapping the roles select content&policies tab.
@@ -61,7 +61,7 @@ The scope of this document covers the following:
      -  In customize form , Here we can see the role properties.
      -  Under the role properties we can find the values option where we can edit the values.
      
- ![Figure 1](Picture3.png)
+ ![Figure 1](images/Picture3.png)
  
 ## Stage 1.4
      -  Whenever we have to update roles, It should be always in Lexographical order.
@@ -72,13 +72,13 @@ The scope of this document covers the following:
 ## Stage 1.5 
      -  After updating roles, We can verify it under catalog.
      
- ![Figure 1](Picture4.png)   
+ ![Figure 1](images/Picture4.png)   
  
 ## Stage 1.6 
      - In request form , we can see that values are updated.
      - Those roles can be used for provisioning.
      
- ![Figure 1](Picture5.png)
+ ![Figure 1](images/Picture5.png)
     
 
 
@@ -91,12 +91,12 @@ The scope of this document covers the following:
      - The purpose of updating tags in vro that tag should be available under day2 action such as "update puppet tag"
 
 
-![Figure 1](Picture6.png)
+![Figure 1](images/Picture6.png)
   
 ## Stage 2.2  
      - Click on the Resources which is present under the Assests tab.
      
-![Figure 1](Picture7.png)
+![Figure 1](images/Picture7.png)
  
 ## Stage 2.3 
      - under resource folder we will find "role.txt".
@@ -107,7 +107,7 @@ The scope of this document covers the following:
      - Keep the file name same , If we change the file name the code will gets changed.
      
      
-![Figure 1](Picture8.png)     
+![Figure 1](images/Picture8.png)     
      
 
 ## Note :
