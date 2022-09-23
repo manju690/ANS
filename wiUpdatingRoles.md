@@ -50,7 +50,7 @@ The scope of this document covers the following:
  
  ![Figure 1](images/Picture1.png)
   
-## Stage 1.2  
+  - Stage 1.2  
      -  For mapping the roles select content&policies tab.
      -  Click on content&policies select content and then select the blueprint which we want to edit.
      -  Click on the option there we can see the customize form.
