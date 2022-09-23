@@ -33,8 +33,8 @@ The scope of this document covers the following:
 
       If we get any requests to add or update puppet role , There are two places where we have to make changes
 
-              1. The first one is in Blueprint.
-              2. The second one is in vro workflow which is present under Resources.
+          1. The first one is in Blueprint.
+          2. The second one is in vro workflow which is present under Resources.
 	      
 ## Prerequisites
 
@@ -47,15 +47,15 @@ The scope of this document covers the following:
 
 - Stage 1.1
        
-       -  For updating roles in Blueprint , Log on to the VRA Service Broker
+    -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
  ![Figure 1](images/Picture1.png)
   
 - Stage 1.2  
     
-       -  For mapping the roles select content&policies tab.
-       -  Click on content&policies select content and then select the blueprint which we want to edit.
-       -  Click on the option there we can see the customize form.
+    -  For mapping the roles select content&policies tab.
+    -  Click on content&policies select content and then select the blueprint which we want to edit.
+    -  Click on the option there we can see the customize form.
    
  ![Figure 1](images/Picture2.png)
  
