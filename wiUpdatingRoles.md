@@ -55,7 +55,7 @@ The scope of this document covers the following:
      -  Click on content&policies select content and then select the blueprint which we want to edit.
      -  Click on the option there we can see the customize form.
    
- ![Figure 1](Picture2.png)
+ ![Figure 1](images/Picture2.png)
  
 ## Stage 1.3
      -  In customize form , Here we can see the role properties.
