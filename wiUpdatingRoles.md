@@ -16,17 +16,17 @@
 | ------- | ---------- | ---------------- | -------------|
 | 0.1     | 21/09/2022 | Updating Puppet Roles In ANS-MAR, CLY  | Vadlamudi Manjusha |
 
-## 1 Introduction
+## Introduction
+
+### Purpose
    
    The purpose of this document is to create step by step instructions for adding and updating puppet roles whenever new requests comes from client side.
 
-
-## Scope
+### Scope
 
 The scope of this document covers the following:
 
-     Adding Puppet Role/Tag in ANS-MAR, ANS-CLY Environment
-     Adding Puppet Role/Tag in ANS-MAR & ANS-CLY Environment
+
 
 
 ## Stages for adding puppet roles
