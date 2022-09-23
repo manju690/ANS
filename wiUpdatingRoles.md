@@ -14,7 +14,7 @@
   
 | Version | Date       | Description      | Author       |
 | ------- | ---------- | ---------------- | -------------|
-| 0.1     | 21/09/2022 | Updating Puppet Roles In ANS-MAR, CLY  | Vadlamudi Manjusha |
+| 0.1     | 21/09/2022 | Updating Puppet Roles In ANS-MAR & CLY  | Vadlamudi Manjusha |
 
 ## Introduction
 
@@ -124,7 +124,7 @@ Following are the prerequisites to add/update puppet roles in both the Environme
 
 ## Note :
 
-   - Same steps will be followed for ANS-CLY Environment.
+   - Same steps will be followed for ANS-CLY & ANS-MAR Environment.
    - Same steps will be applied for both DEV and PRD Blueprints.
     
 
