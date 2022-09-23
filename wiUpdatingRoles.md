@@ -1,4 +1,4 @@
-# Updating Puppet Roles
+# Updating Puppet Roles/Tags
 
 ## Table of Contents
 
