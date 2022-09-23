@@ -38,7 +38,7 @@ The scope of this document covers the following:
 	      
 ## Prerequisites
 
-     -  Access to the both ANS-MAR , CLY in VRA Environment
+     -  Access to the both ANS-MAR&CLY in VRA Environment
      -  Access to the both ANS-MAR , CLY in VRO Environment
 
 ## Stage 1
