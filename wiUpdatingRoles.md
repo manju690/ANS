@@ -46,6 +46,7 @@ The scope of this document covers the following:
 ## Updating Roles Procedure In VRA Resources
 
 - Stage 1.1
+       
        -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
  ![Figure 1](images/Picture1.png)
