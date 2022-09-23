@@ -39,8 +39,8 @@ The scope of this document covers the following:
 
 Following are the prerequisites to add/update puppet roles in both the Environments
   
-     Access to the both ANS-MAR & ANS-CLY in VRA Environment
-     Access to the both ANS-MAR & ANS-CLY in VRO Environment
+ 1. Access to the both ANS-MAR & ANS-CLY in VRA Environment
+ 2. Access to the both ANS-MAR & ANS-CLY in VRO Environment
      
 	      
 ## Stage 1
