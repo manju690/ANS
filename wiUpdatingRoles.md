@@ -30,7 +30,10 @@ The scope of this document covers the following:
 
 ## Stages for adding roles
 
-      If we get any requests to add or update puppet role , There are two places where we have to make changes
+     
+
+        1. The first one is in Blueprint.
+	2. The second one is in vro workflow which is present under Resources.
 
        
 	      
