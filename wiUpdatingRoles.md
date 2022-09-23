@@ -26,10 +26,9 @@
 
 The scope of this document covers the following:
 
+1. Adding Puppet Role/Tag In  Both ANS-MAR & ANS-CLY Environment
 
 
-
-## Stages for adding puppet roles
 
       If we get any requests to add or update puppet role , There are two places where we have to make changes
 
@@ -43,7 +42,7 @@ The scope of this document covers the following:
 
 ## Stage 1
 	      
-## Updating Roles Procedure In VRA Resources
+
 
 - Stage 1.1
        
@@ -91,7 +90,7 @@ The scope of this document covers the following:
 
 ## Stage 2
 
-## Updating Roles Procedure In VRO Resources
+
 
 - Stage 2.1
    
