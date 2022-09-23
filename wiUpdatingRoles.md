@@ -45,36 +45,36 @@ The scope of this document covers the following:
 	      
 ## Updating Roles Procedure In VRA Resources
 
-## Stage 1.1
+- Stage 1.1
      -  For updating roles in Blueprint , Log on to the VRA Service Broker
  
  ![Figure 1](images/Picture1.png)
   
-  - Stage 1.2  
+- Stage 1.2  
      -  For mapping the roles select content&policies tab.
      -  Click on content&policies select content and then select the blueprint which we want to edit.
      -  Click on the option there we can see the customize form.
    
  ![Figure 1](images/Picture2.png)
  
-## Stage 1.3
+- Stage 1.3
      -  In customize form , Here we can see the role properties.
      -  Under the role properties we can find the values option where we can edit the values.
      
  ![Figure 1](images/Picture3.png)
  
-## Stage 1.4
+- Stage 1.4
      -  Whenever we have to update roles, It should be always in Lexographical order.
      -  Whatever roles we have to update it in the form of key-value pair.
 ## For Example:
      enreg::service_batch::init:|ENREG SERVICE BATCH
  
-## Stage 1.5 
+- Stage 1.5 
      -  After updating roles, We can verify it under catalog.
      
  ![Figure 1](images/Picture4.png)   
  
-## Stage 1.6 
+- Stage 1.6 
      - In request form , we can see that values are updated.
      - Those roles can be used for provisioning.
      
@@ -86,19 +86,19 @@ The scope of this document covers the following:
 
 ## Updating Roles Procedure In VRO Resources
 
-## Stage 2.1
+- Stage 2.1
    
      - The purpose of updating tags in vro that tag should be available under day2 action such as "update puppet tag"
 
 
 ![Figure 1](images/Picture6.png)
   
-## Stage 2.2  
+- Stage 2.2  
      - Click on the Resources which is present under the Assests tab.
      
 ![Figure 1](images/Picture7.png)
  
-## Stage 2.3 
+- Stage 2.3 
      - under resource folder we will find "role.txt".
      - We should export this file and add/edit the tag by following key|value format and then upload the same by cliking on update option as given in screenshot.
      - After importing the file click on Save.
