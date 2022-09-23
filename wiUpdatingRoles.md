@@ -1,6 +1,5 @@
-# Updating Puppet Roles
 
-# Table of Contents
+
   
 - [Changelog](#Changelog)
 - [Introduction](#Introduction)
