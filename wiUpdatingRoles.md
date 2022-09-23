@@ -124,7 +124,7 @@ Following are the prerequisites to add/update puppet roles in both the Environme
 
 ## Note :
 
-   - Same steps will be followed for ANS-CLY & ANS-MAR Environment.
+   - Same steps will be followed for Both ANS-CLY & ANS-MAR Environment.
    - Same steps will be applied for both DEV and PRD Blueprints.
     
 
