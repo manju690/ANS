@@ -53,9 +53,9 @@ The scope of this document covers the following:
   
 - Stage 1.2  
     
-     -  For mapping the roles select content&policies tab.
-     -  Click on content&policies select content and then select the blueprint which we want to edit.
-     -  Click on the option there we can see the customize form.
+       -  For mapping the roles select content&policies tab.
+       -  Click on content&policies select content and then select the blueprint which we want to edit.
+       -  Click on the option there we can see the customize form.
    
  ![Figure 1](images/Picture2.png)
  
